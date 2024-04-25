@@ -15,16 +15,17 @@ Jump to: [Installation](#Installation) | [Usage](#Usage) | [Acknowledgements](#A
 ## Manual installation
 
 1. You need to own a copy of [Minecraft](https://www.minecraft.net/) Java Edition and have it installed on your machine.
-2. Get the [Fabric Mod Installer](https://fabricmc.net/use/installer/) and navigate to your version of Minecraft that is supported by this mod (1.20.2) and click "Installer" under the "Download Recommended" section to download.
+2. Get the [Fabric Mod Installer](https://fabricmc.net/use/installer/). Just click on "Download Installer" to download.
 3. Open the downloaded file to install this version of Fabric.
     - Here are some troubleshooting resources If you have trouble opening this jar file:
         - [macOS](https://discussions.apple.com/thread/252960079)
         - [Ubuntu and Ubuntu-based Linux distros](https://itsfoss.com/run-jar-file-ubuntu-linux/)
-4. Download this mod's jar file from [here](https://github.com/Persson-dev/gdmc_http_fabric/releases/latest) and move it in the mod folder:
+4. Get the [Fabric Api Mod](https://www.curseforge.com/minecraft/mc-mods/fabric-api). Download the same version as above and move it in the mod folder.
+5. Download this mod's jar file from [here](https://github.com/Persson-dev/gdmc_http_fabric/releases/latest) and move it in the mod folder:
     - On Windows: `%APPDATA%/.minecraft/mods`.
     - On macOS: `~/Library/Application\ Support/Minecraft/mods`.
     - On Linux desktop: `~/.minecraft/mods`
-5. Open the Minecraft launcher, go to the "Installations" tab and click "Play" on the Fabric installation in the list.
+6. Open the Minecraft launcher, go to the "Installations" tab and click "Play" on the Fabric installation in the list.
 
 ## Usage
 
