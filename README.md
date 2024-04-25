@@ -73,4 +73,4 @@ This mod adds the following custom console commands to the game:
 
 ## Acknowledgements
 
-GDMC-HTTP has been actively developed with the help of the GDMC community. Of special note here is Niki Gawlik, who created the [original version](https://github.com/nilsgawlik/gdmc_http_interface) of this mod for Minecraft 1.16.5. This repo is a continuation of their work.
+This repo is just a port of the [original mod](https://github.com/Niels-NTG/gdmc_http_interface) designed for Forge
